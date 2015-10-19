@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="22b4b28846c79803dc8f3aa7aed2d9cd46271345">
+        <dex dex="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-fb6a2c915876f79a2d5bff233b1f5245ae7df12d.jar" />
+    </item>
+    <item
+        jar="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="002c9c712d53e88baa6248a0cb6e804f647b056e">
+        <dex dex="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-548c61408fdd4f92f506a0c2feae0ce4261184da.jar" />
+    </item>
+    <item
+        jar="/Users/chingya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1f141026767292cf054aae7467b481bf1b2d0627">
+        <dex dex="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-985ddc4275969df3494d5cb59a7b57c8fdd4e7e4.jar" />
+    </item>
+    <item
+        jar="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12a4ccfaa8937772fea64fb87c357b508e07dc40">
+        <dex dex="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-7ec84bd03abba1ec0c9aa03668a734505d2e09ba.jar" />
+    </item>
+    <item
+        jar="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2694476ba83d6a86892517977e80fd1b67a221c">
+        <dex dex="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-112f27e8615cd223400f561e826f0ad9f36f182a.jar" />
+    </item>
+    <item
+        jar="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b33438d9d908799b11578fe540b30ea8d60134e">
+        <dex dex="/Users/chingya/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-3d5d195bb6535edd8f8cad5eba1f7ffb84e8f148.jar" />
+    </item>
+
+</items>
